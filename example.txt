@@ -1,0 +1,5 @@
+This is a git repository for the assignments of the online cours Deep Learning by Google.
+
+Assignment 1: Train a Logistic Regression model on the notMNIST dataset, which is able to recognize a subset of English letters in different fonts.
+
+Assignment 2: Train a fully-connected network using Gradient Descent and Stochastic Gradient Descent with TensorFlow
