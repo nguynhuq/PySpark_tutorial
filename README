@@ -1,2 +1,3 @@
 This is a tutorial for PySpark
 1_examples: some basic examples coming from spark.apache.org
+2_ebay_dataset: processing tabular data with Spark DataFrame using eBay online auctions dataset
